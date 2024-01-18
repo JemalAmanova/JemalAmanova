@@ -1,4 +1,4 @@
- [![MasterHead](https://www.linkedin.com/in/jemal-amanova-778659265/)
+
 <h1 align="center">Hi 👋, I'm Jemal Amanova</h1>
 <h3 align="center">Aspiring fullstack developer from Turkey, crafting digital experiences with a passion for both frontend finesse and backend robustness.</h3>
 
