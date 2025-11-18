@@ -2,10 +2,6 @@
 <h1 align="center">Hi 👋, I'm Jemal Amanova</h1>
 <h3 align="center">Aspiring fullstack developer from Turkmenistan, crafting digital experiences with a passion for both frontend finesse and backend robustness.</h3>
 
-- 🔭 I’m currently working on **Django, ASP.NET**
-
-- 💬 Ask me about **Blockchain**
-
 - 📫 How to reach me **jemalamanova1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
